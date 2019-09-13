@@ -1,0 +1,14 @@
+C:\Work\MSTest\Dummy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Work\MSTest\Dummy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Work\MSTest\Dummy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Work\MSTest\Dummy\bin\Debug\Dummy.dll
+C:\Work\MSTest\Dummy\bin\Debug\Dummy.pdb
+C:\Work\MSTest\Dummy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Work\MSTest\Dummy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Work\MSTest\Dummy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Work\MSTest\Dummy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Work\MSTest\Dummy\obj\Debug\Dummy.csprojAssemblyReference.cache
+C:\Work\MSTest\Dummy\obj\Debug\Dummy.csproj.CoreCompileInputs.cache
+C:\Work\MSTest\Dummy\obj\Debug\Dummy.csproj.CopyComplete
+C:\Work\MSTest\Dummy\obj\Debug\Dummy.dll
+C:\Work\MSTest\Dummy\obj\Debug\Dummy.pdb
